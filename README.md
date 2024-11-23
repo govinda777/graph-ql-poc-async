@@ -6,10 +6,10 @@
 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/seu-usuario/graphql-python-guide/blob/main/notebooks/graphql_demo.ipynb)
 
 ### 2. Replit
-[![Run on Repl.it](https://replit.com/badge/github/seu-usuario/graphql-python-guide)](https://replit.com/github/seu-usuario/graphql-python-guide)
+[![Run on Repl.it](https://replit.com/badge/github/seu-usuario/graphql-python-guide)](https://replit.com/github/govinda777/graphql-python-guide)
 
 ### 3. Local com Docker
-[![Docker Hub](https://img.shields.io/badge/Docker-Hub-blue)](https://hub.docker.com/r/seu-usuario/graphql-python-guide)
+[![Docker Hub](https://img.shields.io/badge/Docker-Hub-blue)](https://hub.docker.com/r/govinda777/graphql-python-guide)
 
 ## 🚀 Quickstart
 
@@ -25,7 +25,7 @@
 
 ### Opção 3: Docker Local
 ```bash
-docker pull seu-usuario/graphql-python-guide
+docker pull govinda777/graphql-python-guide
 docker run -p 8000:8000 seu-usuario/graphql-python-guide
 ```
 
